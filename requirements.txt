@@ -1,0 +1,9 @@
+fastapi[standard]
+langgraph
+langchain_openai
+langchain_groq
+langchain_core
+langserve[server]
+requests
+groq==0.18.0
+python-dotenv==1.0.1
